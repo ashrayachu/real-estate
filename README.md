@@ -1,3 +1,4 @@
-<h1> Hero Section </h1>
-![image](https://github.com/user-attachments/assets/ebf7c6b2-6806-4a5f-8a13-b106c6f70565)
+Hero Section
+![image](https://github.com/user-attachments/assets/05cc2653-c863-4eed-bd6d-1e2b5507b433)
+
 
