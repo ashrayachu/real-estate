@@ -1,7 +1,6 @@
 import React from 'react'
-import Slider from '../components/Slider'
-// import Banner from '../components/Banner'
 
+import Slider from '../components/Slider'
 import Private from '../components/Private'
 import Video from '../components/Video'
 import PropertySlider from '../components/PropertySlider'
@@ -13,7 +12,6 @@ import Navbar from '../components/Navbar'
 
 function Home() {
   return (
-    //  <Banner/> 
     <>
       <Navbar/>
       <Slider />

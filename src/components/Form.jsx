@@ -1,14 +1,15 @@
 import React from 'react'
-import bannerImage from "../data/bannerImage"
+import image1 from '../assets/image1.jpg';
+
 
 
 function Form() {
     return (
         <div className='min-h-screen bg-black relative py-20 px-4 sm:px-10 flex justify-end' 
         style={{
-            backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(${bannerImage[0].image})`,
-            backgroundSize: "cover",
-            backgroundPosition: "center"
+            backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(${image1})`,
+            backgroundSize: "cover",    
+            backgroundPosition: "center"        
         }}
     >
         <div className="w-full md:w-2/5 bg-black flex flex-col justify-evenly items-center md:py-10 px-5 text-white"> {/* Adjusted width for responsiveness */}
